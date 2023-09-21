@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url-here.com/cool-github-banner.png" alt="GitHub Banner">
+  <img src="[https://your-image-url-here.com/cool-github-banner.png](https://www.evidencebasedmentoring.org/wp-content/uploads/2018/07/programming-1857236_1280_banner.jpg)" alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hello, I'm Andrew 👋</h1>
@@ -51,7 +51,7 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:andrew.cannon.exe@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=fff" alt="Email">
   </a>
   <a href="https://linkedin.com/in/andrew-cannon-0555bb286/">
