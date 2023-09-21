@@ -10,7 +10,7 @@
   <a href="https://github.com/dontyellwillcry">
     <img src="https://img.shields.io/github/followers/dontyellwillcry?label=Follow&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/andrew-cannon-0555bb286/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff" alt="LinkedIn">
   </a>
 </p>
@@ -22,7 +22,7 @@
 - 🌱 I'm constantly learning and improving my coding skills.
 - 🎮 I enjoy gaming in my free time, ask me about my favorite games!
 - 📚 Currently immersed in the Wheel of Time series by Robert Jordan.
-- 😺 Proud owner of [YourCatName], my feline companion.
+- 😺 Proud owner of Joe & Jax, my feline companion's.
 
 ---
 
@@ -54,12 +54,10 @@
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=fff" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/andrew-cannon-0555bb286/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/[YourTwitterHandle]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=fff" alt="Twitter">
-  </a>
+  
 </p>
 
 ---
