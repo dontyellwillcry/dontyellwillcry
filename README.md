@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.evidencebasedmentoring.org/wp-content/uploads/2018/07/programming-1857236_1280_banner.jpg" alt="GitHub Banner">
+  <img src="[https://www.evidencebasedmentoring.org/wp-content/uploads/2018/07/programming-1857236_1280_banner.jpg](https://wall.alphacoders.com/big.php?i=1322308)" alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hello, I'm Andrew 👋</h1>
