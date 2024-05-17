@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samueltaneously/Samueltaneously/main/Drawing%20Camping%20Raining%20Stars.gif" alt="GitHub Banner">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBraGNxMjJwMXVtYWltZnNvbWFubTBnaWhrNmkxd2hrbGw0aHoxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1310XHyc6yC6ju/giphy.webp" alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hello, I'm Andrew 👋</h1>
