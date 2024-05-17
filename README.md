@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images5.alphacoders.com/133/1337542.png" alt="GitHub Banner">
+  <img src="[https://images5.alphacoders.com/133/1337542.png](https://raw.githubusercontent.com/Samueltaneously/Samueltaneously/main/Drawing%20Camping%20Raining%20Stars.gif)" alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hello, I'm Andrew 👋</h1>
